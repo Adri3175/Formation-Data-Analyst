@@ -1,0 +1,257 @@
+"SEXE";"AGE";"TYPE DE CONTRAT";"SALAIRE";"PROMOTION";"AUGMENTATION";"SERVICE";"ACCIDENTS DE TRAVAIL";"CONGE MATERNITE"
+"H";"40-49";"CDI";"5000-5499";0;0;"Compta Finances";"Non";0
+"F";"30-39";"CDI";"7000-7499";0;1;"Commercial";"Oui";1
+"F";"40-49";"CDI";"2000-2499";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"10500-10999";1;1;"Consultant";"Non";0
+"F";"30-39";"CDI";"5000-5499";0;1;"Marketing";"Non";0
+"F";"30-39";"CDI";"2000-2499";0;0;"Consultant";"Non";0
+"H";"50+";"CDI";"7000-7499";0;0;"Consultant";"Non";0
+"H";"30-39";"CDI";"3500-3999";0;0;"Compta Finances";"Oui";0
+"H";"50+";"CDI";"8500-8999";0;0;"Informatique";"Non";0
+"F";"50+";"CDD";"3000-3499";0;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"10000-10499";0;1;"Commercial";"Oui";0
+"H";"40-49";"CDD";"2500-2999";0;0;"Consultant";"Non";0
+"F";"30-39";"CDI";"11000-11499";0;0;"RH";"Non";0
+"F";"40-49";"CDI";"7500-7999";0;1;"Marketing";"Non";0
+"F";"40-49";"CDI";"10500-10999";0;1;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"7500-7999";0;0;"Marketing";"Non";0
+"F";"30-39";"CDI";"2000-2499";0;1;"Marketing";"Non";1
+"H";"40-49";"CDI";"8000-8499";0;1;"Informatique";"Non";0
+"H";"-30";"CDI";"2000-2499";0;1;"Marketing";"Non";0
+"H";"40-49";"CDI";"7000-7499";0;0;"Informatique";"Non";0
+"F";"-30";"CDI";"4500-4999";0;1;"Consultant";"Non";1
+"H";"30-39";"CDI";"4500-4999";1;0;"Commercial";"Non";0
+"H";"50+";"CDI";"9000-9499";1;1;"RH";"Non";0
+"F";"40-49";"CDI";"6000-6499";0;1;"Marketing";"Oui";0
+"F";"40-49";"CDI";"5500-5999";0;0;"RH";"Non";0
+"H";"50+";"CDI";"2000-2499";0;0;"Consultant";"Non";0
+"F";"50+";"CDI";"6000-6499";0;1;"RH";"Non";0
+"F";"30-39";"CDI";"4500-4999";0;1;"Marketing";"Non";0
+"F";"40-49";"CDI";"5500-5999";0;0;"Marketing";"Non";0
+"F";"50+";"CDD";"3500-3999";0;0;"Commercial";"Non";0
+"H";"30-39";"CDD";"3000-3499";0;0;"Consultant";"Oui";0
+"F";"30-39";"CDI";"8500-8999";0;1;"RH";"Oui";1
+"F";"50+";"CDI";"10500-10999";0;0;"Compta Finances";"Oui";0
+"H";"30-39";"CDD";"2000-2499";0;0;"Marketing";"Non";0
+"F";"40-49";"CDI";"7500-7999";0;1;"Commercial";"Non";0
+"H";"40-49";"CDI";"7000-7499";0;0;"Commercial";"Non";0
+"F";"40-49";"CDD";"3000-3499";0;0;"Commercial";"Non";0
+"F";"30-39";"CDI";"8000-8499";1;0;"Commercial";"Non";0
+"F";"50+";"CDI";"3000-3499";0;0;"Commercial";"Oui";0
+"H";"30-39";"CDI";"9500-9999";0;1;"Consultant";"Non";0
+"H";"40-49";"CDI";"1000-1499";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"4000-4499";0;1;"Commercial";"Oui";0
+"F";"40-49";"CDI";"10000-10499";1;1;"Informatique";"Non";0
+"H";"30-39";"CDI";"12500-12999";0;0;"Commercial";"Oui";0
+"F";"40-49";"CDI";"10500-10999";0;1;"RH";"Non";0
+"F";"40-49";"CDI";"6000-6499";0;1;"Consultant";"Non";0
+"F";"30-39";"CDI";"4000-4499";0;1;"Commercial";"Non";0
+"H";"30-39";"CDI";"8500-8999";0;0;"Informatique";"Non";0
+"F";"50+";"CDI";"4000-4499";1;1;"Commercial";"Non";0
+"H";"50+";"CDI";"9000-9499";1;0;"Consultant";"Non";0
+"H";"50+";"CDI";"8500-8999";1;0;"Informatique";"Non";0
+"H";"30-39";"CDI";"3500-3999";1;0;"RH";"Non";0
+"F";"50+";"CDD";"2500-2999";0;0;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"6000-6499";0;1;"Marketing";"Oui";0
+"F";"50+";"CDI";"3000-3499";0;0;"RH";"Non";0
+"H";"50+";"CDI";"10500-10999";1;1;"Consultant";"Non";0
+"H";"40-49";"CDI";"9000-9499";0;0;"RH";"Non";0
+"H";"40-49";"CDI";"12500-12999";0;0;"Marketing";"Non";0
+"F";"40-49";"CDI";"8500-8999";0;0;"Commercial";"Non";0
+"F";"-30";"CDI";"2500-2999";0;1;"Compta Finances";"Non";1
+"H";"-30";"CDI";"10500-10999";1;1;"RH";"Non";0
+"F";"50+";"CDI";"11500-11999";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"5500-5999";0;1;"RH";"Non";0
+"F";"50+";"CDI";"4500-4999";1;0;"Consultant";"Non";0
+"H";"50+";"CDI";"1500-1999";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"9500-9999";0;1;"Commercial";"Oui";0
+"H";"40-49";"CDI";"3500-3999";0;1;"Marketing";"Oui";0
+"F";"50+";"CDI";"3500-3999";1;0;"Marketing";"Non";0
+"F";"50+";"CDI";"5500-5999";0;1;"Compta Finances";"Non";0
+"H";"50+";"CDI";"3000-3499";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"10500-10999";0;1;"RH";"Non";0
+"H";"50+";"CDI";"5500-5999";0;0;"Consultant";"Non";0
+"H";"30-39";"CDI";"7500-7999";0;0;"Commercial";"Non";0
+"F";"50+";"CDI";"3500-3999";0;1;"RH";"Non";0
+"H";"50+";"CDI";"5000-5499";0;0;"Consultant";"Non";0
+"H";"30-39";"CDI";"6500-6999";0;1;"Compta Finances";"Non";0
+"H";"50+";"CDI";"4500-4999";0;0;"Marketing";"Non";0
+"H";"40-49";"CDI";"1500-1999";0;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"7000-7499";0;1;"Commercial";"Oui";0
+"H";"30-39";"CDI";"9500-9999";1;0;"Commercial";"Oui";0
+"H";"50+";"CDI";"6500-6999";0;0;"Commercial";"Non";0
+"F";"40-49";"CDI";"7500-7999";0;1;"Commercial";"Non";0
+"H";"40-49";"CDI";"2000-2499";0;1;"Compta Finances";"Non";0
+"F";"30-39";"CDI";"1500-1999";1;0;"Marketing";"Non";0
+"H";"30-39";"CDI";"2500-2999";0;0;"Consultant";"Non";0
+"F";"30-39";"CDI";"9000-9499";0;1;"Compta Finances";"Non";0
+"F";"50+";"CDI";"8500-8999";0;1;"Compta Finances";"Non";0
+"F";"50+";"CDI";"6000-6499";1;1;"Consultant";"Non";0
+"H";"30-39";"CDI";"8000-8499";0;0;"Commercial";"Oui";0
+"H";"40-49";"CDI";"8000-8499";0;1;"Commercial";"Oui";0
+"F";"30-39";"CDI";"8000-8499";0;1;"Informatique";"Non";0
+"F";"50+";"CDI";"4000-4499";0;0;"RH";"Non";0
+"H";"50+";"CDI";"11500-11999";0;0;"Compta Finances";"Non";0
+"F";"50+";"CDI";"6500-6999";0;0;"RH";"Non";0
+"H";"50+";"CDI";"9000-9499";0;1;"Commercial";"Oui";0
+"H";"40-49";"CDI";"13000-13499";0;0;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"10000-10499";0;0;"Commercial";"Oui";0
+"F";"50+";"CDI";"3000-3499";0;0;"Consultant";"Non";0
+"F";"50+";"CDI";"4500-4999";0;0;"Informatique";"Oui";0
+"H";"40-49";"CDI";"10000-10499";0;1;"Informatique";"Non";0
+"H";"50+";"CDI";"2500-2999";0;1;"RH";"Non";0
+"F";"50+";"CDI";"7000-7499";0;1;"Commercial";"Non";0
+"H";"50+";"CDI";"5000-5499";0;1;"RH";"Non";0
+"F";"40-49";"CDI";"11000-11499";0;1;"Commercial";"Oui";0
+"H";"40-49";"CDI";"2500-2999";0;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"4000-4499";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"13000-13499";1;1;"Commercial";"Non";0
+"F";"40-49";"CDI";"7000-7499";1;1;"Commercial";"Non";0
+"H";"50+";"CDI";"4500-4999";0;0;"Marketing";"Non";0
+"H";"-30";"CDI";"8500-8999";0;0;"RH";"Non";0
+"H";"40-49";"CDI";"7500-7999";1;1;"Consultant";"Non";0
+"F";"50+";"CDI";"9000-9499";0;1;"RH";"Non";0
+"H";"50+";"CDI";"7500-7999";0;0;"Consultant";"Non";0
+"F";"40-49";"CDI";"10500-10999";0;1;"Commercial";"Non";0
+"H";"40-49";"CDI";"4000-4499";0;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"4500-4999";0;0;"RH";"Non";0
+"F";"30-39";"CDI";"6000-6499";0;1;"RH";"Non";1
+"H";"50+";"CDI";"11500-11999";0;1;"Commercial";"Non";0
+"F";"40-49";"CDI";"2500-2999";0;0;"Consultant";"Non";0
+"H";"50+";"CDI";"5500-5999";0;0;"Consultant";"Non";0
+"H";"30-39";"CDI";"5000-5499";0;0;"Marketing";"Non";0
+"F";"50+";"CDI";"5500-5999";0;1;"Commercial";"Non";0
+"H";"30-39";"CDI";"4000-4499";0;1;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"9000-9499";0;0;"Commercial";"Non";0
+"F";"40-49";"CDI";"2000-2499";1;1;"Compta Finances";"Oui";0
+"H";"-30";"CDI";"9500-9999";0;1;"Marketing";"Non";0
+"F";"40-49";"CDD";"3000-3499";0;0;"Consultant";"Non";0
+"F";"30-39";"CDI";"9000-9499";0;0;"Compta Finances";"Non";0
+"F";"50+";"CDI";"10500-10999";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"4000-4499";0;1;"RH";"Non";0
+"F";"40-49";"CDI";"8000-8499";0;0;"RH";"Non";0
+"H";"-30";"CDI";"3500-3999";0;1;"Marketing";"Non";0
+"H";"50+";"CDI";"5500-5999";0;0;"Informatique";"Non";0
+"H";"30-39";"CDI";"3000-3499";0;0;"Commercial";"Oui";0
+"F";"50+";"CDI";"4000-4499";0;1;"RH";"Non";0
+"F";"50+";"CDI";"11500-11999";1;0;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"2000-2499";0;0;"Consultant";"Non";0
+"F";"30-39";"CDI";"4000-4499";0;0;"Compta Finances";"Non";0
+"F";"30-39";"CDI";"5500-5999";0;1;"Compta Finances";"Non";0
+"H";"50+";"CDI";"9500-9999";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"10000-10499";0;1;"Commercial";"Oui";0
+"H";"30-39";"CDI";"7500-7999";0;0;"Marketing";"Non";0
+"H";"40-49";"CDI";"5500-5999";0;1;"Consultant";"Non";0
+"F";"50+";"CDI";"2500-2999";0;0;"Commercial";"Non";0
+"F";"-30";"CDD";"4000-4499";0;0;"Compta Finances";"Non";0
+"H";"30-39";"CDI";"6500-6999";0;1;"Commercial";"Non";0
+"F";"40-49";"CDI";"2500-2999";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"11000-11499";0;0;"Consultant";"Non";0
+"H";"50+";"CDI";"5500-5999";0;1;"Consultant";"Non";0
+"H";"40-49";"CDI";"11000-11499";1;1;"Compta Finances";"Non";0
+"F";"40-49";"CDI";"7000-7499";0;1;"Consultant";"Non";0
+"H";"30-39";"CDI";"12500-12999";1;1;"RH";"Non";0
+"H";"30-39";"CDI";"9000-9499";0;0;"RH";"Non";0
+"F";"50+";"CDI";"9000-9499";0;1;"Compta Finances";"Non";0
+"F";"50+";"CDI";"7000-7499";0;1;"Marketing";"Non";0
+"H";"30-39";"CDD";"3000-3499";0;1;"Informatique";"Oui";0
+"F";"50+";"CDI";"4000-4499";1;1;"Compta Finances";"Non";0
+"F";"40-49";"CDI";"2500-2999";1;1;"Consultant";"Non";0
+"H";"40-49";"CDI";"7500-7999";1;0;"Commercial";"Non";0
+"H";"50+";"CDI";"3000-3499";0;1;"Compta Finances";"Non";0
+"F";"40-49";"CDI";"5000-5499";0;0;"Marketing";"Non";0
+"H";"50+";"CDI";"6000-6499";0;0;"RH";"Non";0
+"H";"50+";"CDI";"4500-4999";1;1;"Compta Finances";"Non";0
+"H";"50+";"CDI";"5500-5999";0;0;"Compta Finances";"Non";0
+"H";"50+";"CDI";"11500-11999";0;1;"Marketing";"Non";0
+"H";"40-49";"CDI";"6500-6999";1;1;"Marketing";"Non";0
+"F";"40-49";"CDI";"6500-6999";0;1;"Commercial";"Non";0
+"H";"30-39";"CDI";"7500-7999";0;1;"Consultant";"Non";0
+"H";"40-49";"CDI";"9000-9499";0;1;"Consultant";"Non";0
+"F";"30-39";"CDI";"6500-6999";1;1;"Commercial";"Oui";0
+"F";"40-49";"CDD";"3500-3999";0;0;"Marketing";"Non";0
+"H";"40-49";"CDI";"3500-3999";1;0;"RH";"Non";0
+"H";"40-49";"CDI";"9000-9499";0;1;"Compta Finances";"Non";0
+"H";"50+";"CDI";"11000-11499";0;0;"Informatique";"Oui";0
+"H";"30-39";"CDI";"9500-9999";0;0;"Marketing";"Non";0
+"F";"50+";"CDI";"3500-3999";1;1;"Commercial";"Oui";0
+"H";"40-49";"CDI";"2500-2999";0;0;"Commercial";"Oui";0
+"H";"30-39";"CDI";"5500-5999";1;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"6000-6499";0;1;"Consultant";"Non";0
+"F";"-30";"CDI";"6500-6999";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"3000-3499";0;0;"RH";"Non";0
+"H";"50+";"CDI";"9500-9999";0;0;"Marketing";"Non";0
+"F";"50+";"CDI";"4000-4499";0;0;"Marketing";"Non";0
+"F";"30-39";"CDI";"8500-8999";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"1500-1999";1;0;"Compta Finances";"Non";0
+"F";"30-39";"CDI";"1000-1499";1;0;"Compta Finances";"Non";0
+"F";"40-49";"CDI";"11000-11499";0;1;"Commercial";"Non";0
+"F";"50+";"CDI";"9000-9499";1;0;"Compta Finances";"Non";0
+"F";"30-39";"CDI";"11000-11499";0;1;"Commercial";"Non";0
+"H";"30-39";"CDI";"4500-4999";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"9000-9499";0;0;"Marketing";"Non";0
+"F";"30-39";"CDI";"7000-7499";0;0;"RH";"Non";0
+"F";"40-49";"CDD";"3000-3499";0;0;"Consultant";"Oui";0
+"F";"30-39";"CDI";"8000-8499";0;0;"Consultant";"Non";0
+"H";"50+";"CDI";"4500-4999";0;0;"Informatique";"Non";0
+"F";"50+";"CDI";"6500-6999";0;0;"Commercial";"Oui";0
+"F";"40-49";"CDI";"4500-4999";0;1;"RH";"Oui";0
+"F";"30-39";"CDD";"2000-2499";0;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"4000-4499";0;0;"Compta Finances";"Non";0
+"F";"50+";"CDI";"7000-7499";0;1;"RH";"Non";0
+"F";"40-49";"CDI";"7000-7499";0;0;"Compta Finances";"Non";0
+"F";"40-49";"CDI";"7500-7999";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"5500-5999";0;1;"Consultant";"Non";0
+"H";"30-39";"CDI";"1500-1999";0;1;"Consultant";"Non";0
+"F";"40-49";"CDI";"13000-13499";0;0;"Consultant";"Non";0
+"H";"30-39";"CDI";"6500-6999";0;0;"Informatique";"Oui";0
+"H";"30-39";"CDD";"4500-4999";0;0;"Marketing";"Non";0
+"F";"50+";"CDI";"8000-8499";0;0;"Consultant";"Non";0
+"F";"-30";"CDI";"2000-2499";0;0;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"2000-2499";0;0;"Consultant";"Non";0
+"F";"40-49";"CDI";"9000-9499";1;1;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"12000-12499";0;0;"Marketing";"Non";0
+"F";"40-49";"CDD";"2500-2999";0;0;"Marketing";"Oui";0
+"H";"30-39";"CDI";"4000-4499";0;0;"RH";"Non";0
+"H";"30-39";"CDI";"9500-9999";0;0;"RH";"Non";0
+"H";"50+";"CDI";"1500-1999";1;1;"Consultant";"Non";0
+"F";"30-39";"CDI";"10000-10499";1;0;"RH";"Non";0
+"F";"30-39";"CDI";"5500-5999";0;0;"RH";"Non";0
+"F";"-30";"CDI";"2500-2999";0;1;"Consultant";"Non";1
+"H";"50+";"CDI";"8000-8499";0;1;"Marketing";"Non";0
+"F";"30-39";"CDD";"2000-2499";0;1;"Compta Finances";"Non";1
+"F";"50+";"CDI";"4000-4499";0;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"9500-9999";1;1;"Marketing";"Non";0
+"F";"30-39";"CDI";"10000-10499";1;0;"Commercial";"Oui";0
+"F";"40-49";"CDI";"2000-2499";0;1;"Consultant";"Non";0
+"F";"30-39";"CDI";"2500-2999";0;0;"Commercial";"Non";0
+"H";"50+";"CDI";"3000-3499";0;1;"Consultant";"Non";0
+"F";"50+";"CDI";"7000-7499";0;0;"RH";"Non";0
+"H";"50+";"CDI";"2000-2499";1;1;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"2000-2499";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"3000-3499";0;1;"Consultant";"Non";0
+"H";"40-49";"CDI";"2000-2499";1;1;"Commercial";"Non";0
+"H";"30-39";"CDI";"5000-5499";0;0;"Consultant";"Non";0
+"H";"40-49";"CDI";"7000-7499";0;1;"Consultant";"Non";0
+"H";"50+";"CDI";"11000-11499";0;0;"RH";"Non";0
+"H";"30-39";"CDI";"10000-10499";0;0;"Informatique";"Non";0
+"F";"40-49";"CDI";"6000-6499";1;1;"Compta Finances";"Non";0
+"H";"40-49";"CDI";"11000-11499";0;1;"RH";"Oui";0
+"F";"50+";"CDI";"2500-2999";0;0;"Commercial";"Non";0
+"H";"50+";"CDI";"3000-3499";0;0;"Commercial";"Non";0
+"H";"30-39";"CDI";"1500-1999";0;0;"Compta Finances";"Non";0
+"F";"40-49";"CDI";"5500-5999";0;1;"Commercial";"Non";0
+"F";"50+";"CDI";"7500-7999";0;0;"Consultant";"Oui";0
+"F";"50+";"CDI";"4500-4999";0;0;"RH";"Non";0
+"H";"50+";"CDI";"7500-7999";0;1;"Compta Finances";"Non";0
+"F";"30-39";"CDI";"3500-3999";0;1;"Commercial";"Non";0
+"F";"50+";"CDI";"4000-4499";0;1;"RH";"Non";0
+"H";"40-49";"CDI";"4500-4999";0;1;"Marketing";"Non";0
+"H";"40-49";"CDI";"5500-5999";0;1;"Consultant";"Non";0
+"H";"40-49";"CDI";"6000-6499";0;0;"Commercial";"Non";0
+"F";"50+";"CDI";"4500-4999";0;0;"RH";"Non";0
+"F";"40-49";"CDI";"9500-9999";0;0;"Marketing";"Non";0
+"F";"30-39";"CDI";"10000-10499";0;0;"Compta Finances";"Non";0
+"H";"50+";"CDI";"3000-3499";0;1;"Consultant";"Non";0
+"F";"50+";"CDI";"9000-9499";0;0;"Compta Finances";"Non";0
+"F";"40-49";"CDI";"2500-2999";1;1;"RH";"Non";0
