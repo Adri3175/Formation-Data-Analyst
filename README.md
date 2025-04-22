@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://greta-cfa-aquitaine.fr/uploads/logo-OpenClassRooms-COM-du-SITE-WEB-9.jpg" alt="OpenClassrooms" width="150"/>
+  <img src="https://greta-cfa-aquitaine.fr/uploads/logo-OpenClassRooms-COM-du-SITE-WEB-9.jpg" alt="OpenClassrooms" height="100"/>
 </p>
 
 # Formation Data Analyst – Portfolio de projets
 
-[Voir mon portfolio en ligne](https://sites.google.com/view/portfolio-data-adrian/)  
-*(version interactive avec vidéos, dashboards et présentations)*
-
 Bienvenue sur mon portfolio de formation, réalisé dans le cadre du parcours Data Analyst chez OpenClassrooms.  
 Ce dépôt regroupe **12 projets concrets**, réalisés dans des contextes variés (entreprises, ONG, institutions), et me permet aujourd’hui de me positionner comme **Data Analyst opérationnel**, prêt à intervenir en mission.
+
+[Voir mon portfolio en ligne](https://sites.google.com/view/portfolio-data-adrian/)  
+*(version interactive avec vidéos, dashboards et présentations)*
 
 ---
 
@@ -52,14 +52,5 @@ Un fichier `README.md` dans chaque dossier permet de comprendre **le contexte, c
 
 ---
 
-## Objectif du dépôt
-
-Ce portfolio a été conçu pour :
-- **présenter mes compétences et mon évolution** tout au long de la formation
-- **servir de vitrine professionnelle** auprès de futurs recruteurs ou partenaires
-- **témoigner de ma capacité à produire des analyses claires, utiles et actionnables**
-
----
-
 Pour toute question, ou si vous souhaitez en discuter, je suis disponible avec plaisir.  
-[Voir le portfolio complet](https://sites.google.com/view/portfolio-data-adrian/)
+[Voir mon portfolio](https://sites.google.com/view/portfolio-data-adrian/)
