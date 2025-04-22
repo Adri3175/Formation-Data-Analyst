@@ -1,4 +1,4 @@
-# Projet 01 – Faire une analyse de ventes pour un e-commerce
+# Projet 1 – Analyse de ventes pour un e-commerce
 
 ## Contexte
 
@@ -11,11 +11,11 @@ Objectif : produire une **analyse mensuelle des performances commerciales** à p
 
 ## Ce que j’ai fait
 
-- Sélection et interprétation de graphiques déjà générés (ventes, panier moyen, visites, etc.)
-- Analyse de l’évolution du chiffre d’affaires, avec identification des causes de baisse
-- Recommandations stratégiques pour les mois à venir
-- Mise à jour d’un tableau Excel avec les données des **clients affiliés**
-- Création de graphiques et d’une **infographie accessible** dans un tableau de bord
+- Sélection et interprétation de graphiques déjà générés (ventes, panier moyen, visites, etc.),
+- Analyse de l’évolution du chiffre d’affaires, avec identification des causes de baisse,
+- Recommandations stratégiques pour les mois à venir,
+- Mise à jour d’un tableau Excel avec les données des **clients affiliés**,
+- Création de graphiques et d’une **infographie accessible** dans un tableau de bord.
 
 ---
 
@@ -23,8 +23,8 @@ Objectif : produire une **analyse mensuelle des performances commerciales** à p
 
 - `Inputs/` : les fichiers bruts fournis
 - `Livrables/` : 
-  - ma présentation synthétique (5 slides max)
-  - le fichier Excel complété avec formules et visualisations
+  - Ma présentation synthétique (5 slides max)
+  - Le fichier Excel complété avec formules et visualisations
 - `Missions.pdf` : l’énoncé complet du projet
 
 ---
