@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://greta-cfa-aquitaine.fr/uploads/logo-OpenClassRooms-COM-du-SITE-WEB-9.jpg" alt="OpenClassrooms" height="100"/>
+  <img src="https://images.app.goo.gl/a11HZxMkRYxzUpcn6" alt="OpenClassrooms" height="100"/>
 </p>
 
 # Formation Data Analyst – Portfolio de projets
