@@ -1,4 +1,4 @@
-# Formation Data Analyst avec Openclassrooms – Projets
+# Formation Data Analyst avec Openclassrooms
 
 Bienvenue sur mon portfolio de formation, réalisé dans le cadre du parcours Data Analyst chez OpenClassrooms.  
 Ce dépôt regroupe **12 projets concrets**, réalisés dans des contextes variés (entreprises, ONG, institutions), et me permet aujourd’hui de me positionner comme **Data Analyst opérationnel**, prêt à intervenir en mission.
